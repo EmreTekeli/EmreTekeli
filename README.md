@@ -1,5 +1,7 @@
 # 💫 About Me:
-Yapay zeka, Görüntü İşleme, Derin öğrenme
+# Yapay zeka 
+# Görüntü İşleme
+# Derin öğrenme
 
 
 ## 🌐 Socials:
